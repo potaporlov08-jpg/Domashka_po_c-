@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+Режим вывода команд на экран (ECHO) включен.
+# Сборка
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog
+*.lastbuildstate
+ipch/
+Режим вывода команд на экран (ECHO) включен.
+# OS
+Thumbs.db
+Desktop.ini
+Режим вывода команд на экран (ECHO) включен.
+# Clang
